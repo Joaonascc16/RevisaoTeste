@@ -1,4 +1,4 @@
-package org.example;
+package org.example.entity;
 
 // Entidade que representa um Livro do acervo
 public class Livro {
